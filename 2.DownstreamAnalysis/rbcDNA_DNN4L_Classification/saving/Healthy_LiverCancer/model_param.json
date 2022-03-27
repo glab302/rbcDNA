@@ -1,0 +1,1 @@
+{"lr": 3e-05, "h1_dim": 240, "h2_dim": 120, "h3_dim": 80, "z_dim": 60, "epochs": 1000, "weight_l2": 1, "weight_ae": 5, "mixup_alpha": 0.5, "task": "Healthy_LiverCancer", "dataset_dir": "./DataMatrix/", "class_number": 2, "balanced_loss": false, "only_test": true, "test_epoch": 194, "explain_class": 1}

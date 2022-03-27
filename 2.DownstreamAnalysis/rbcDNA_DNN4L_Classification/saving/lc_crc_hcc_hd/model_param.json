@@ -1,0 +1,1 @@
+{"lr": 3e-05, "h1_dim": 355, "h2_dim": 150, "h3_dim": 80, "z_dim": 10, "epochs": 1000, "weight_l2": 1, "weight_ae": 5, "mixup_alpha": 0.5, "task": "lc_crc_hcc_hd", "dataset_dir": "./DataMatrix/", "class_number": 4, "balanced_loss": false, "only_test": true, "test_epoch": 411, "explain_class": 1}

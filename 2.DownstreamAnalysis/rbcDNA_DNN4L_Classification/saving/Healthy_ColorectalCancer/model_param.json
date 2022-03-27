@@ -1,0 +1,1 @@
+{"lr": 3e-05, "h1_dim": 290, "h2_dim": 160, "h3_dim": 60, "z_dim": 10, "epochs": 1000, "weight_l2": 1, "weight_ae": 5, "mixup_alpha": 1.0, "task": "Healthy_ColorectalCancer", "dataset_dir": "./DataMatrix/", "class_number": 2, "balanced_loss": false, "only_test": true, "test_epoch": 757, "explain_class": 1}
